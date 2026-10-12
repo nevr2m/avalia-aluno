@@ -39,7 +39,7 @@ Digite a segunda nota: 6
 Deseja gerar o relatório? (s/n): s
 ```
 
-Saída esperada:
+Saída:
 
 ```text
 Relatório de Notas
