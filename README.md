@@ -1,4 +1,4 @@
-# Sistema de Avaliação Escolar
+# Simulação de Avaliação Escolar
 ![Python](https://img.shields.io/badge/Python-orange?logo=python)
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
