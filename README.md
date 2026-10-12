@@ -1,5 +1,8 @@
-# Simulação de Tomada de Decisão
+# Sistema de Avaliação Escolar
+![Python](https://img.shields.io/badge/Python-orange?logo=python)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
+## Descrição
 Este projeto é um programa em Python que simula a análise de notas de um aluno e define sua situação escolar com base na média final.
 
 ## Funcionalidade
@@ -48,6 +51,17 @@ Média: 7.0
 Situação: Aprovado
 ```
 
-## Observação
+## Linguagem/Conceitos utilizados
+- ![Python](https://img.shields.io/badge/Python-orange?logo=python)
+- `input()`
+- `float()`
+- `def` (funções)
+- `return`
+- `if`, `elif` e `else`
+- F-strings
+- `lower()`
+- `print()`
 
-O programa é de console e usa entrada via teclado, com saída impressa no terminal.
+## Status
+
+🟢 Concluído
